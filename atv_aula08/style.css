@@ -1,0 +1,76 @@
+
+/* Configurações gerais */
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    color: #333333;
+    margin: 0;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #153e75;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.subtitulo {
+    font-style: italic;
+    font-size: 18px;
+}
+
+/* Conteúdo */
+main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #153e75;
+    font-size: 24px;
+    text-decoration: underline;
+    word-spacing: 5px;
+}
+
+h3 {
+    color: #2874a6;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 30px;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+/* Rodapé */
+footer {
+    background-color: #153e75;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    text-indent: 0;
+    text-align: center;
+    font-size: 14px;
+}
